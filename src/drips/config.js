@@ -7,9 +7,9 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮trendeditso@gmail.com 
+//▮WHATSAPP US : +91 9497872524
+//▮YOUTUBE CHANNELL: https://youtube.com/@user-nb8ky9yo8j
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -37,12 +37,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','447441437150']
-global.premium = ['27634090203','447441437150']
+global.owner = ['15129313571','15129313571']
+global.premium = ['15129313571','15129313571']
 global.botname = 'ZIM BOT INC'
 global.ownername ='DRIPS'
 global.packname = 'ZIM BOT INC'
-global.quoted = 'https://www.youtube.com/c/DRIPSOFC'
+global.quoted = 'https://youtube.com/@user-nb8ky9yo8j'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
